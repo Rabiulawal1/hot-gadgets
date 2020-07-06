@@ -1,3 +1,24 @@
-.navbar{
-    float: right;
+.button{
+    background-color: black;
+    color: blanchedalmond;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    width: 100px;
+}
+.slider{
+    margin-bottom: 100px;
+}
+.item{
+    margin-bottom: 50px;
+}
+.item h5{
+    color: yellow;
+
+}
+.card-body{
+    align-items: center;
+}
+.smartphone{
+    margin-bottom: 100px;
 }
